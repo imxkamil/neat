@@ -11,7 +11,12 @@ pip install -r requirements.txt
 
 
 
+
 config-feedforward.txt - configures NEAT parameters like population size, mutation rates, and neural network inputs/outputs.
+
+
 python train-net.py - train your AI flappy bird
+
+
 python test-net.py - test your net
 
