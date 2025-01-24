@@ -1,6 +1,10 @@
 This project involves training an AI to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 The AI learns how to play the game by evolving neural networks that control the bird's movements.
 
+
+--------------------------------------------------------------------
+
+
 python -m venv venv
 
 source venv/bin/activate (Linux, macOS) or venv\Scripts\activate (Windows)
